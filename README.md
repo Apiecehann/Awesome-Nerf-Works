@@ -76,16 +76,20 @@ Nerf-Related work with description and code review.
 
 ### Generative Models
 
+##### GAN
+
+##### Diffusion
+
+### 3D Resconstruction
+
 ##### SDF
 
 ##### Occupancy
 
-### 3D Resconstruction
+### Human NeRF
 
 ##### Face
 
 ##### Body
-### Human NeRF
-
 
 
