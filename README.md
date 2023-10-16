@@ -8,11 +8,25 @@ Nerf-Related work with description and code review.
 
 ##### mip-NeRF based
 
+[45] Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields
+
+[45+] Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields
+
+[46] Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields
+
+[67] NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images
+
 ##### Depth/Point Cloud Supervision
 
 ### Speed
 
 ##### Non-Baked
+
+[38] NSVF:Neural Sparse Voxel Fields
+
+[72] AutoInt: Automatic Integration for Fast Neural Volume Rendering
+
+[42] Instant-GAP： Instant Neural Graphics Primitives with a Multiresolution Hash Encoding
 
 ##### Baked
 
