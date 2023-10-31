@@ -48,15 +48,46 @@ Nerf-Related work with description and code review.
 
 ##### MLP-less/Explicit
 
+[43] Plenoxels： Radiance Fields without Neural Networks
+
+[44] TensorRF：Tensorial Radiance Fields
+
+[73] DVGO Direct Voxel Grid Optimization:
+Super-fast Convergence for Radiance Fields Reconstruction
+
 ### Sparse View
 
 ##### Cost Volume
 
+[47] MVSNeRF：Fast Generalizable Radiance Field Reconstruction
+from Multi-View Stereo
+
+[74] PixelNeRF： Neural Radiance Fields from One or Few Images
+
+[75] NeuRay：Fast Generalizable Radiance Field Reconstruction
+from Multi-View Stereo
+
 ##### Others
+
+[23] DS-NeRF:Depth-supervised NeRF: Fewer Views and Faster Training for Free
+
+[48] DietNeRF:Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis
 
 ### Generative/Conditional
 
 ##### GAN
+
+[76] GIRAFFE:Adventures in Expanding Context Lengths in LLMs
+
+[77] GRAF:Generative Radiance Fields
+for 3D-Aware Image Synthesis
+
+[78] pi-GAN:Periodic Implicit Generative Adversarial Networks for 3D-Aware
+Image Synthesis
+
+[80] StyleNerf:GAN-based Neural Radiance Field without Posed Camera
+
+[81] EG3D:Efficient Geometry-aware 3D Generative Adversarial Networks
 
 ##### Diffusion
 
